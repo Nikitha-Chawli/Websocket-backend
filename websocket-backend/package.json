@@ -1,0 +1,12 @@
+{
+  "name": "websocket-backend",
+  "version": "1.0.0",
+  "description": "A WebSocket backend that echoes messages and counts character occurrences.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.2.2"
+  }
+}
